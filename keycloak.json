@@ -1,0 +1,11 @@
+{
+    "realm": "FastApi",
+    "auth-server-url": "http://localhost:8080/",
+    "ssl-required": "external",
+    "resource": "fast-api-client",
+    "verify-token-audience": true,
+    "credentials": {
+      "secret": "wv6zAviTUo71s7RCqWilOo8DCSj89lx7"
+    },
+    "confidential-port": 0
+  }
